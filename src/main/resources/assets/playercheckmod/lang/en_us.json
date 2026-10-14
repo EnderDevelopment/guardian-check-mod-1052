@@ -1,0 +1,6 @@
+{
+  "command.check.usage": "Usage: /check <player>",
+  "command.uncheck.usage": "Usage: /uncheck",
+  "command.check.success": "Checking player %s",
+  "command.uncheck.success": "Unchecking player"
+}
